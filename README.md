@@ -39,24 +39,24 @@ Instructor: [Mike Gelbart](https://www.mikegelbart.com/)
 |    |        |         | Dataset of the week: [predicting housing prices](https://www.kaggle.com/c/home-data-for-ml-course/) |
 | 10 | Oct 13 | [Linear regression, regression metrics](lectures/10_regression-metrics.ipynb) | [recording part 1](https://www.dropbox.com/s/jkydpcvr2dyf8uf/lecture10.mp4?dl=0), [recording part 2](https://www.dropbox.com/s/414dedx4f10cpl3/lecture10_part2.mp4?dl=0) |  | more depth on metrics, less on linear regression
 | 11 | Oct 15 | [Prediction intervals, feature importances](lectures/11_feature-importances.ipynb) | [recording](https://www.dropbox.com/s/uzn8c5j966lv3v6/lecture11.mp4?dl=0) | | new
+| 12 | Oct 20 | [Feature selection, midterm review](lectures/12_feature-selection-and-review.ipynb) | [screencast](https://www.dropbox.com/s/da7lx8kdzxfmna2/lecture12.mp4?dl=0) | [Feature selection article](https://towardsdatascience.com/featuion-techniques-in-machine-learning-with-python-f24e7da3f36e) | less depth
+|    | Oct 22 | MIDTERM | [study materials](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | |
+| 13 | Oct 27 | [Neural networks & computer vision](lectures/13_computer-vision.ipynb) | [recording](https://www.dropbox.com/s/lyl9f6k8k2sqkkt/lecture13.mp4?dl=0) | [But what _is_ a Neural Network?](https://www.youtube.com/wrcAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | less depth
+| 14 | Oct 29 | [Distances and neighbours](lectures/14_distances-neighbours.ipynb) | [recording](https://www.dropbox.com/s/62qgg4cnk0fbcqv/lecture14.mp4?dl=0) | | less depth
+| 15 | Nov 3 | [Text data](lectures/15_nlp.ipynb) | [recording](https://www.dropbox.com/s/m8nvih2aoyxjisj/lecture15.mp4?dl=0) - note: unfortunately the first 9 min of the recording was corrupted | |  new
+| 16 | Nov 5 | [Outliers](lectures/16_outliers.ipynb) | [recording](https://www.dropbox.com/s/tdk4d9ovijgve7m/lecture16.mp4?dl=0) | | different
 
 Below this point is the schedule for future lectures (not yet updated for 2020W1)
 
 | #  | Date  | Topic | Recording |  Related readings and links | vs. CPSC 340 |
 |--- |-------|--------|----------|-------------------------|--------------------|
-| 12 | Oct 20 | [Feature selection, midterm review](lectures/12_feature-selection-and-review.ipynb) | | [Feature selection article](https://towardsdatascience.com/featuion-techniques-in-machine-learning-with-python-f24e7da3f36e) | less depth
-|    | Oct 22 | MIDTERM | [study materials](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | |
-| 13 | Oct 27 | [Neural networks & computer vision](lectures/13_computer-vision.ipynb) | | [But what _is_ a Neural Network?](https://www.youtube.com/wrcAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | less depth
-| 14 | Oct 29 | [Nearest neighbours for product similarity](lectures/14_nearest-neighbours.ipynb) | | | less depth
-| 15 | Nov 3 | [Feature engineering, embeddings](lectures/15_feature-engineering-embeddings.ipynb) | | |  new
-| 16 | Nov 5 | [Time series data](lectures/16_time-series.ipynb) | | Humour: [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new 
-| 17 | Nov 10 | [Survival analysis](lectures/17_survival-analysis.ipynb) | | [Calling Bullshit video 4.1](https://www.youtube.com/watch?v=ITWQ5psx9Sw&list=D1Sje5jWxt-4CSZD7bUI4gSPS&index=19&t=0s), [Medium article](https://towardsdatascience.com/survisis-intuition-implementation-in-python-504fde4fcf8e) (contains some math) | new
-| 18 | Nov 12 | [Clustering](lectures/18_clustering.ipynb) | | | less depth
-| 19 | Nov 17 | [Outliers](lectures/19_outliers.ipynb) | | | different angle
-| 20 | Nov 19 | [Communicating your results](lectures/21_communication.ipynb) | | [Communication in Data Science](https://ubc-mds.github.io/2017-I-542-communication/) blog post; [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 1 (5 video total) |  new
-| 21 | Nov 24 | [Communicating your results, continued](lectures/22_communication-continued.ipynb) | | [Calling BS videos](https://www.youtube.com/playlist?list=D1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total) | new
-| 22 | Nov 26 | [Ethics](lectures/23_ethics.ipynb) | | [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total) | new
-| 23 | Dec 1| Model deployment  | | | new 
+| 17 | Nov 10 | [Time series data](lectures/17_time-series.ipynb) | | Humour: [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new 
+| 18 | Nov 12 | [Survival analysis](lectures/18_survival-analysis.ipynb) | | [Calling Bullshit video 4.1](https://www.youtube.com/watch?v=ITWQ5psx9Sw&list=D1Sje5jWxt-4CSZD7bUI4gSPS&index=19&t=0s), [Medium article](https://towardsdatascience.com/survisis-intuition-implementation-in-python-504fde4fcf8e) (contains some math) | new
+| 19 | Nov 17 | [Clustering](lectures/19_clustering.ipynb) | | | less depth
+| 20 | Nov 19 | [Communicating your results](lectures/20_communication.ipynb) | | [Communication in Data Science](https://ubc-mds.github.io/2017-I-542-communication/) blog post; [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 1 (5 video total) |  new
+| 21 | Nov 24 | [Communicating your results, continued](lectures/21_communication-continued.ipynb) | | [Calling BS videos](https://www.youtube.com/playlist?list=D1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total) | new
+| 22 | Nov 26 | [Ethics](lectures/22_ethics.ipynb) | | [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total) | new
+| 23 | Dec 1| [Model deployment](lectures/23_deployment.ipynb)  | | | new 
 | 24 | Dec 3 | [Leftovers; Conclusion](lectures/24_leftovers-conclusion.ipynb) | |  | 
 
 ## Homework schedule
